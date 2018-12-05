@@ -2,5 +2,5 @@ gestor:
   rabbit:
     server: "0.0.0.0"
 gestor:
- coisa: perdeu
+  coisa: perdeu
  

@@ -1,3 +1,2 @@
 gestor:
-  rabbit:
-    server: "0.0.0.0"
+  rabbit.server: "0.0.0.0"
